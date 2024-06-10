@@ -1,0 +1,20 @@
+.inline {
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(221, 221, 221);
+
+    display: flex; 
+    flex-direction: row; 
+    align-items: center; 
+    justify-content: center;
+
+    margin: 10px;
+    float:left;
+    margin: 10px;
+
+    height: 75px;
+    width: 75px;
+}
+
+.red {
+    color: rgb(185, 0, 0);
+}

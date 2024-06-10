@@ -1,0 +1,19 @@
+.title {
+    display: flex; 
+    flex-direction: row; 
+    align-items: center; 
+    justify-content: center;
+    color:rgb(62, 62, 153);
+}
+
+.subtitle {
+    color:rgb(96, 125, 151);
+}
+
+.text {
+    color: rgb(48, 48, 48);
+}
+
+.subtext {
+    color:rgb(136, 136, 136);
+}
