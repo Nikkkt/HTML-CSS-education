@@ -1,0 +1,23 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    color: #f8eef1;
+  }
+  
+  .fruitList {
+    list-style: decimal inside;
+    background-color: #ee9eae;
+    padding: 15px;
+    max-width: 500px;
+    margin: 15px;
+  }
+  
+  .fruitList li {
+    margin: 15px 0;
+    padding: 10px;
+    background-color: #c66377;
+  }
+  
+  .fruitList span {
+    background-color: #9f3549;
+    padding: 10px;
+  }

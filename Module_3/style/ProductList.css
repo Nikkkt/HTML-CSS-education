@@ -1,0 +1,32 @@
+.main {
+    text-align: center;
+}
+  
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.listContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.productContainer {
+    width: 120px;
+    height: 150px;
+    border-radius: 10px;
+    margin: 8px;
+    border: 2px solid #ccc;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.productContainer img {
+    width: 100px;
+    height: 100px;
+}
